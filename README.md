@@ -1,7 +1,5 @@
 ### <div align="center">I'm Fady Saoudy, a full-time Software Engineer 👨‍💻</div>  
   
-🔭 I’m currently with (https://github.com/abiroot)
-
 ❓ Ask me about anything related to Software engineering, Data Science and related technologies
 
 ⚡ Fun fact: I use tabs over spaces
